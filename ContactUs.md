@@ -20,4 +20,4 @@ We require the following precise information to provide you with a solution to y
 
 Please be as detailed as possible. Only then can we ensure that we can solve your problem.
 
-Privacy Policy: 
+Privacy Policy: https://github.com/SmartiOSDev/Tab-Copy/blob/main/PrivacyPolicy.md
